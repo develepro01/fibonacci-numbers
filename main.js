@@ -13,4 +13,4 @@ function fibbonacci(seq_length){
     console.log(aar1);
 }
 
-fibbonacci(5);
+fibbonacci(100);
